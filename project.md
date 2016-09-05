@@ -82,3 +82,13 @@ Patient Fall Detection Using Hip And Abdomen Sensor
 Breathing Sensor with Sleeping Pattern Analysis
 Bionic Sensor Based Foot Sensing And Hip Monitoring with LCD Display
 Respiratory Temperature Monitor in ICU
+
+
+- lifa on github for arduino and labview
+- why ardunio not raspberry pi
+- surface EMG
+- Research on trepezius muscule and stress
+- Stress and wellbeing, stats from survey, risk factors
+- compare price and ergonomic products
+- EMG wave analysis
+- wifi with smartphone app (?)
